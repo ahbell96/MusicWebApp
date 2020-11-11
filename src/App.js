@@ -8,7 +8,7 @@ import Player from './components/player';
 import Song from './components/song';
 
 // styles
-import './styles/App.scss';
+import './styles/app.scss';
 
 function App() {
   return (
